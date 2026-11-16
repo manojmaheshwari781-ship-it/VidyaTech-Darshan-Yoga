@@ -1,0 +1,6 @@
+{
+  "name": "VidyaTech Darshan by Manoj YogaWala",
+  "description": "Comprehensive 12-Level interactive Yoga and Meditation journey for all age groups with 4-stage daily guided sessions, timers, voice guidance, and visual instructions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
